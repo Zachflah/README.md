@@ -1,5 +1,6 @@
 - Hey I'm @Zachflah
-- I’m currently studying Biomedical Mechnaical Engineering @ UOttawa
+- Biomedical Mechnaical Engineering with Computer Technology Graduate@ UOttawa
+- Master of Biomedical Mechanical Engineering Candidate
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zachary-flahaut/)
