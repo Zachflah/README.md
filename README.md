@@ -10,6 +10,4 @@
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zachflah&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zachflah&repo=github-readme-stats&show_owner=true)](https://github.com/Zachflah/github-readme-stats)
-
 [![](https://visitcount.itsvg.in/api?id=Zachflah&label=Profile%20Views&color=0&pretty=false)](https://visitcount.itsvg.in)
